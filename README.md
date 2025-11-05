@@ -1,4 +1,4 @@
-# O-Analyzer 📊
+# O-Analyzer
 
 O-Analyzer is a frontend web application designed to analyze the algorithmic complexity (Big O) of Python code.
 
